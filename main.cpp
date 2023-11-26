@@ -7,7 +7,7 @@ int main()
     const int windowHeight{384};
     InitWindow(windowWidth, windowHeight, "Classy Clash");
 
-    Texture2D map = LoadTexture("nature_tileset/OpenWorldMap24x24.png");
+    Texture2D map = LoadTexture("nature_tileset/map.png");
     Vector2 mapPos{0.0, 0.0};
     float speed{4.0};
 
