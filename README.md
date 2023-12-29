@@ -5,6 +5,7 @@ Welcome to Classy Clash, a C++ game built with raylib.
 # Classy Clash
 
 Welcome to Classy Clash, a C++ game built with raylib.
+
 ![classy-clash](https://github.com/JacobCoch/classy-clash/assets/104926747/360d9f28-bb1b-48da-80c1-93b3b4ed253a)
 
 ## Overview
