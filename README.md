@@ -47,6 +47,5 @@ Classy Clash is a simple yet engaging game created with the raylib game developm
    make game
    ./game
 
-
 **Enjoy the Adventure**
 Immerse yourself in the world of Classy Clash. Conquer enemies, explore the island, and emerge victorious in this thrilling gaming experience.
